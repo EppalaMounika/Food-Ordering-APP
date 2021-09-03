@@ -1,0 +1,11 @@
+you ordered idly of cost 23
+you ordered dosa of cost 30
+you ordered idly of cost 23
+you ordered dosa of cost 30
+you ordered name of cost price
+you ordered dosa of cost 30
+
+you ordered dosa of cost 30
+you ordered name of cost price
+you ordered idly of cost 23
+you ordered dosa of cost 30
